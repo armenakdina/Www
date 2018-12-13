@@ -1,0 +1,5 @@
+CNF_USER=ssh user
+CNF_HOST=ip address
+CNF_BASE_REMOTE_DIR=remote dir fullpath of Sf2 project
+CNF_POST_DEPLOY=1|0
+CNF_SLACK_CHANEL_URL=xxx
